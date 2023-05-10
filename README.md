@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 I'm studying at FPT University Da Nang
-I was born in 2002
+
 
 
 ## 🌐 Socials:
