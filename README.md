@@ -1,6 +1,7 @@
 # 💫 About Me:
-1234556
-1
+I'm studying at FPT University Da Nang
+I was born in 2002
+
 
 
 # 💻 Tech Stack:
